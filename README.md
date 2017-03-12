@@ -1,2 +1,2 @@
 # Thebest
-The *.apk file inside "super" folder
+setup *.apk file is located inside "APK" folder
