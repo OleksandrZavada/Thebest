@@ -1,2 +1,2 @@
 # Thebest
-The apk file insid "super"folder
+The apk file inside "super"folder
