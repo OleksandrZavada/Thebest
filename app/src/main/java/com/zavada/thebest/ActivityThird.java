@@ -29,7 +29,7 @@ public class ActivityThird extends YouTubeBaseActivity implements YouTubePlayer.
     public void onInitializationSuccess(Provider provider, YouTubePlayer player, boolean wasRestored) {
         if (!wasRestored)
         {
-            player.cueVideo("b258YOwVgtI");
+            player.cueVideo("n96PteGKCwg");
         }
     }
 
