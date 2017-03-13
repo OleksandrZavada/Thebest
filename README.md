@@ -1,2 +1,2 @@
 # Thebest
-Install *.apk file is located inside "APK" folder
+Install *.apk file is located inside "Homework/APK" folder
