@@ -1,4 +1,4 @@
-# Thebest
+# The best
 GitHub  project: https://github.com/OleksandrZavada/Thebest
 
 Application: *.apk is stored in Homework/APK folder
